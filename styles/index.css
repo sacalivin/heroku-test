@@ -26,6 +26,10 @@ footer
 .message {
     width: 70%;
 }
+.quate
+{
+    color: black;
+}
 
 @media (max-width: 600px) 
 {
